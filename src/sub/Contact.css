@@ -1,0 +1,14 @@
+.Contact 
+{
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 8px;
+    
+    width: 25%;
+    margin: 5%;
+}
+
+
+td{
+    padding: 10px;
+}

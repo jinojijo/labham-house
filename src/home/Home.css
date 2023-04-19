@@ -1,0 +1,11 @@
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.Half
+{
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+}
